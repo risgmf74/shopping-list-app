@@ -6,4 +6,4 @@
 
 You can check my project at https://risgmf-shopping-list.netlify.app/
 
-Original project by [Rafid Hoda] (https://scrimba.com/learn/firebase)
+Original project by **Rafid Hoda** - https://scrimba.com/learn/firebase
